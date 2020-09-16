@@ -1,0 +1,8 @@
+# FontMod
+fonts:
+  Segoe UI:
+    replace: Fira Code
+  PMingLiU: # fallback
+    replace: cjkFonts 全瀨體
+fixGSOFont: true
+debug: false
