@@ -1,0 +1,8 @@
+# FontMod
+fonts:
+  PMingLiU: # fallback
+    replace: 芫荽
+  Segoe UI:
+    replace: Fira Code Retina
+fixGSOFont: false
+debug: false
