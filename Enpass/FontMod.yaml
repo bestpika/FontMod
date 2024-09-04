@@ -3,6 +3,6 @@ fonts:
   PMingLiU: # fallback
     replace: 芫荽
   Segoe UI:
-    replace: Fira Code Retina
+    replace: 芫荽
 fixGSOFont: false
 debug: false
